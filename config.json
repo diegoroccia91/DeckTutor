@@ -1,0 +1,14 @@
+{
+  "mtggolfish_url": "https://www.mtggoldfish.com",
+  "formats":  {
+      "standard": true,
+      "modern": true,
+      "pioneer": true,
+      "legacy": true,
+      "vintage": true,
+      "pauper": true
+    },
+  "cant_process" : 6,
+  "path_to_save" : "/home/nano/Decks",
+  "create_zip" : true
+}
